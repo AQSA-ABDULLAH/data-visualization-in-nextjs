@@ -53,7 +53,9 @@ const Charts = () => {
         <div className=" w-1/3 h-[280px] bg-gray-700 rounded">
           <RadarChartPlot />
         </div>
-        <div className=" w-1/3 h-[280px] bg-gray-700 rounded"></div>
+        <div className=" w-1/3 h-[280px] bg-gray-700 rounded">
+       
+        </div>
       </section>
     </>
   );
